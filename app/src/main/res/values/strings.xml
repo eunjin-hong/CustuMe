@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CustuMe</string>
+    <string name="button_go_to_dress_up">옷 입으러 가기</string>
+    <string name="load_image">사진 불러오기</string>
 </resources>
